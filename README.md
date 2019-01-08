@@ -1,0 +1,2 @@
+# Number_Plate_Reader_Using_Image_Processing_In_MATLAB
+This project not only detects the number plate of a vehicle, but it also tries to read it and provide the license number of the vehicle as a string output and even exports it as a text document. The program also provides an image of region of interest to the user.  The project uses MATLAB 2016a in order to edit and compile the program. The built-in image processing module is used for this purpose.
