@@ -3,7 +3,7 @@ clear all;
 warning('off', 'Images:initSize:adjustingMag');
 
 %To find location of number plate.
-im = imread('Test Images\Car 7.jpg');
+im = imread('Car 1.jpg');
 im = imresize(im, [480 NaN]);
 imgray = rgb2gray(im);
 imbin = imbinarize(imgray);
